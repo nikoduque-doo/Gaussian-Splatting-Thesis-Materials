@@ -18,8 +18,8 @@ timezone: America/New_York # Update this if needed (e.g., Europe/London)
 # jekyll-seo-tag settings
 # ↓ --------------------------
 
-title: Gaussian Splatting Thesis # Your actual title
-tagline: Research & Documentation # Your subtitle
+title: Gaussian Splatting: Numerical Foundations and Performance Evaluation # Your actual title
+tagline: Supplementary Materials # Your subtitle
 description: >-
   Thesis materials and research documentation on Gaussian Splatting.
 
