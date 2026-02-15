@@ -5,7 +5,9 @@ order: 2
 title: Gallery
 ---
 
-Aquí puedes ver las comparaciones visuales de alta resolución.
+In this page a visual comparison of the custom scenes is displayed. The scenes were all recorded in Bogotá, Colombia in the last trimester of 2025.
+
+En esta página se muestra una comparación visual de las escenas propias. Todas las escenas fueron grabadas en Bogotá, Colombia en el último trimestre de 2025.
 
 ## Scene 1: Estatuas
 
