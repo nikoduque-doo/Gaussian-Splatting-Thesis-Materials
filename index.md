@@ -14,7 +14,7 @@ El 3D Gaussian Splatting (3DGS) ofrece una alternativa potente a la fotogrametr�
 **Palabras Clave:** 3D Gaussian Splatting, Fotogrametría, Estructura a partir del Movimiento (SfM), Análisis de Sensibilidad, Síntesis de Vistas
 
 <div class="d-flex justify-content-center" style="gap: 1rem; margin: 2rem 0;">
-  <a href="URL_DE_TU_PDF_EN_EL_REPO_O_DRIVE" class="btn btn-primary btn-lg">
+  <a href="assets/pdf/TesisGaussianSplatting.pdf" class="btn btn-primary btn-lg">
     <i class="fas fa-file-pdf"></i> Read here/Leer aquí (PDF)
   </a>
 </div>
