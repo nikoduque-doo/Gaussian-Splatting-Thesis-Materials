@@ -79,7 +79,7 @@ The easiest way to inspect the results is using the web-based **SuperSplat** vie
         <th scope="row">01</th>
         <td>
           <strong>Estatuas</strong><br>
-          <span class="text-muted small">Outdoor / Complex</span>
+          <span class="text-muted small">Indoor</span>
         </td>
         <td>
           <div class="btn-group w-100" role="group">
@@ -100,7 +100,7 @@ The easiest way to inspect the results is using the web-based **SuperSplat** vie
         <th scope="row">02</th>
         <td>
           <strong>Sala Profes</strong><br>
-          <span class="text-muted small">Indoor / Low Light</span>
+          <span class="text-muted small">Indoor</span>
         </td>
         <td>
           <div class="btn-group w-100" role="group">
@@ -121,7 +121,7 @@ The easiest way to inspect the results is using the web-based **SuperSplat** vie
         <th scope="row">03</th>
         <td>
           <strong>UNAL</strong><br>
-          <span class="text-muted small">Large Scale / Drone</span>
+          <span class="text-muted small">Outdoor</span>
         </td>
         <td>
           <div class="btn-group w-100" role="group">
@@ -142,7 +142,7 @@ The easiest way to inspect the results is using the web-based **SuperSplat** vie
         <th scope="row">04</th>
         <td>
           <strong>Virgen</strong><br>
-          <span class="text-muted small">Object Focus</span>
+          <span class="text-muted small">Outdoor</span>
         </td>
         <td>
           <div class="btn-group w-100" role="group">
