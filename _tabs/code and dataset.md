@@ -9,10 +9,14 @@ This section hosts the raw experimental artifacts. Each scene includes the train
 
 <div class="row mb-4 g-2">
   <div class="col-md-6">
-    <a href="https://github.com/nikoduque-doo/Gaussian-Splatting-Numerical-Foundations-and-Performance-Evaluation" target="_blank" class="btn btn-dark w-100 py-2 shadow-sm">
+    <a href="https://github.com/nikoduque-doo/Gaussian-Splatting-Numerical-Foundations-and-Performance-Evaluation" 
+       target="_blank" 
+       class="btn w-100 py-2 shadow-sm" 
+       style="background-color: #6f42c1; border-color: #6f42c1; color: white;">
       <i class="fab fa-github fa-lg me-2"></i> View Source Code
     </a>
   </div>
+  
   <div class="col-md-6">
     <a href="https://playcanvas.com/supersplat/editor" target="_blank" class="btn btn-primary w-100 py-2 shadow-sm" style="background-color: #2c3e50; border-color: #2c3e50;">
       <i class="fas fa-cube fa-lg me-2"></i> Launch SuperSplat Viewer
