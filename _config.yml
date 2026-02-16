@@ -65,7 +65,7 @@ theme_mode:
 cdn: ""
 
 # The avatar on sidebar (Put an image named avatar.jpg in assets/img/ or change this path)
-avatar: "/assets/img/avatar.jpg" 
+avatar: "/assets/img/elipses_difuminadas.png" 
 
 # TOC settings
 toc: true
